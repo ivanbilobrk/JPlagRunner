@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: jplagrunner
+  threads:
+    virtual:
+      enabled: true
+server:
+  port: 8080
